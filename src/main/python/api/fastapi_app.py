@@ -54,8 +54,5 @@ async def get_model_info():
         raise HTTPException(status_code=500, detail=str(e))
 
 if __name__ == "__main__":
-    uvicorn.run(
-        app, 
-        host="0.0.0.0", 
-        port=int(os.getenv("PYTHON_API_PORT", "5000"))
-    )
+    port = int(os.getenv("PORT", 5000))
+    uvicorn.run(app, host="0.0.0.0", port=port)
