@@ -1,0 +1,10 @@
+version: '3.8'
+services:
+  python-models:
+    build: ./src/main/python
+    ports:
+      - "5000:5000"
+    environment:
+      - ORS_API_KEY=eyJvcmciOiI1YjNjZTM1OTc4NTExMTAwMDFjZjYyNDgiLCJpZCI6IjQ4YzZhZDMzMTcwOTRmOGFiZmQ3MzI5ZjgxYzcxOGIyIiwiaCI6Im11cm11cjY0In0=
+    volumes:
+      - ./data:/app/data
