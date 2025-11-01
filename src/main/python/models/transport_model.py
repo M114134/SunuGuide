@@ -190,7 +190,13 @@ class SearchEngine:
             }
         }
 
-class SunuGuideTransportModel:
+def __init__(self, data_path: str = None):
+    if data_path is None:
+        # Chemin relatif pour le déploiement
+        current_dir = os.path.dirname(__file__)
+        self.data_path = os.path.join(current_dir, "..", "..", "..", "data", "sunuguide_clean_standard.csv")
+    else:
+        self.data_path = data_path
     """Classe principale pour l'intégration Spring Boot"""
     
     def __init__(self, data_path: str = r"C:\Users\USER\Desktop\ESPOIRE\SunuGuide\data\sunuguide_clean_standard.csv"):
@@ -308,6 +314,8 @@ class SunuGuideTransportModel:
             "totalRoutes": len(self.search_engine.df),
             "availableStations": len(self.get_available_stations())
         }
+
+
 
 # Instance globale pour l'API
 transport_model = SunuGuideTransportModel()

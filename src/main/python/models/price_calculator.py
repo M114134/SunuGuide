@@ -1,12 +1,12 @@
 """
 Calculateur de distance et prix pour les taxis
 """
-
+import logging
 import math
 import requests
 import os
 from typing import Tuple
-import logging
+
 
 logger = logging.getLogger(__name__)
 

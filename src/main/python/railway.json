@@ -4,7 +4,7 @@
     "builder": "NIXPACKS"
   },
   "deploy": {
-    "startCommand": "python api/fastapi_app.py",
+    "startCommand": "pip install -r requirements.txt && python api/fastapi_app.py",
     "restartPolicyType": "ON_FAILURE"
   }
 }
