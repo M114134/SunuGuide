@@ -1,0 +1,370 @@
+type transport,depart,arrivee,prix,rapidite,confort
+BRT,Prefecture Guediawaye,Golf Nord,400,8.0,6.0
+BRT,Prefecture Guediawaye,Dalal Jam,400,8.0,6.0
+BRT,Golf Nord,Prefecture Guediawaye,400,8.0,6.0
+BRT,Golf Nord,Dalal Jam,400,8.0,6.0
+BRT,Dalal Jam,Prefecture Guediawaye,400,8.0,6.0
+BRT,Dalal Jam,Golf Nord,400,8.0,6.0
+BRT,Prefecture Guediawaye,Grand Medine,500,8.0,6.0
+BRT,Prefecture Guediawaye,Croisement 22,500,8.0,6.0
+BRT,Prefecture Guediawaye,Parcelles Assainies,500,8.0,6.0
+BRT,Prefecture Guediawaye,Liberte 5,500,8.0,6.0
+BRT,Prefecture Guediawaye,Grande Mosquee,500,8.0,6.0
+BRT,Golf Nord,Grand Medine,500,8.0,6.0
+BRT,Golf Nord,Croisement 22,500,8.0,6.0
+BRT,Golf Nord,Parcelles Assainies,500,8.0,6.0
+BRT,Golf Nord,Liberte 5,500,8.0,6.0
+BRT,Golf Nord,Grande Mosquee,500,8.0,6.0
+BRT,Dalal Jam,Grand Medine,500,8.0,6.0
+BRT,Dalal Jam,Croisement 22,500,8.0,6.0
+BRT,Dalal Jam,Parcelles Assainies,500,8.0,6.0
+BRT,Dalal Jam,Liberte 5,500,8.0,6.0
+BRT,Dalal Jam,Grande Mosquee,500,8.0,6.0
+BRT,Prefecture Guediawaye,Papa Gueye Fall (Petersen),500,8.0,6.0
+BRT,Prefecture Guediawaye,Place de la Nation,500,8.0,6.0
+BRT,Prefecture Guediawaye,Grand Dakar,500,8.0,6.0
+BRT,Prefecture Guediawaye,Le Plateau,500,8.0,6.0
+BRT,Golf Nord,Papa Gueye Fall (Petersen),500,8.0,6.0
+BRT,Golf Nord,Place de la Nation,500,8.0,6.0
+BRT,Golf Nord,Grand Dakar,500,8.0,6.0
+BRT,Golf Nord,Le Plateau,500,8.0,6.0
+BRT,Dalal Jam,Papa Gueye Fall (Petersen),500,8.0,6.0
+BRT,Dalal Jam,Place de la Nation,500,8.0,6.0
+BRT,Dalal Jam,Grand Dakar,500,8.0,6.0
+BRT,Dalal Jam,Le Plateau,500,8.0,6.0
+BRT,Grand Medine,Prefecture Guediawaye,500,8.0,6.0
+BRT,Grand Medine,Golf Nord,500,8.0,6.0
+BRT,Grand Medine,Dalal Jam,500,8.0,6.0
+BRT,Croisement 22,Prefecture Guediawaye,500,8.0,6.0
+BRT,Croisement 22,Golf Nord,500,8.0,6.0
+BRT,Croisement 22,Dalal Jam,500,8.0,6.0
+BRT,Parcelles Assainies,Prefecture Guediawaye,500,8.0,6.0
+BRT,Parcelles Assainies,Golf Nord,500,8.0,6.0
+BRT,Parcelles Assainies,Dalal Jam,500,8.0,6.0
+BRT,Liberte 5,Prefecture Guediawaye,500,8.0,6.0
+BRT,Liberte 5,Golf Nord,500,8.0,6.0
+BRT,Liberte 5,Dalal Jam,500,8.0,6.0
+BRT,Grande Mosquee,Prefecture Guediawaye,500,8.0,6.0
+BRT,Grande Mosquee,Golf Nord,500,8.0,6.0
+BRT,Grande Mosquee,Dalal Jam,500,8.0,6.0
+BRT,Grand Medine,Croisement 22,400,8.0,6.0
+BRT,Grand Medine,Parcelles Assainies,400,8.0,6.0
+BRT,Grand Medine,Liberte 5,400,8.0,6.0
+BRT,Grand Medine,Grande Mosquee,400,8.0,6.0
+BRT,Croisement 22,Grand Medine,400,8.0,6.0
+BRT,Croisement 22,Parcelles Assainies,400,8.0,6.0
+BRT,Croisement 22,Liberte 5,400,8.0,6.0
+BRT,Croisement 22,Grande Mosquee,400,8.0,6.0
+BRT,Parcelles Assainies,Grand Medine,400,8.0,6.0
+BRT,Parcelles Assainies,Croisement 22,400,8.0,6.0
+BRT,Parcelles Assainies,Liberte 5,400,8.0,6.0
+BRT,Parcelles Assainies,Grande Mosquee,400,8.0,6.0
+BRT,Liberte 5,Grand Medine,400,8.0,6.0
+BRT,Liberte 5,Croisement 22,400,8.0,6.0
+BRT,Liberte 5,Parcelles Assainies,400,8.0,6.0
+BRT,Liberte 5,Grande Mosquee,400,8.0,6.0
+BRT,Grande Mosquee,Grand Medine,400,8.0,6.0
+BRT,Grande Mosquee,Croisement 22,400,8.0,6.0
+BRT,Grande Mosquee,Parcelles Assainies,400,8.0,6.0
+BRT,Grande Mosquee,Liberte 5,400,8.0,6.0
+BRT,Grand Medine,Papa Gueye Fall (Petersen),500,8.0,6.0
+BRT,Grand Medine,Place de la Nation,500,8.0,6.0
+BRT,Grand Medine,Grand Dakar,500,8.0,6.0
+BRT,Grand Medine,Le Plateau,500,8.0,6.0
+BRT,Croisement 22,Papa Gueye Fall (Petersen),500,8.0,6.0
+BRT,Croisement 22,Place de la Nation,500,8.0,6.0
+BRT,Croisement 22,Grand Dakar,500,8.0,6.0
+BRT,Croisement 22,Le Plateau,500,8.0,6.0
+BRT,Parcelles Assainies,Papa Gueye Fall (Petersen),500,8.0,6.0
+BRT,Parcelles Assainies,Place de la Nation,500,8.0,6.0
+BRT,Parcelles Assainies,Grand Dakar,500,8.0,6.0
+BRT,Parcelles Assainies,Le Plateau,500,8.0,6.0
+BRT,Liberte 5,Papa Gueye Fall (Petersen),500,8.0,6.0
+BRT,Liberte 5,Place de la Nation,500,8.0,6.0
+BRT,Liberte 5,Grand Dakar,500,8.0,6.0
+BRT,Liberte 5,Le Plateau,500,8.0,6.0
+BRT,Grande Mosquee,Papa Gueye Fall (Petersen),500,8.0,6.0
+BRT,Grande Mosquee,Place de la Nation,500,8.0,6.0
+BRT,Grande Mosquee,Grand Dakar,500,8.0,6.0
+BRT,Grande Mosquee,Le Plateau,500,8.0,6.0
+BRT,Papa Gueye Fall (Petersen),Prefecture Guediawaye,500,8.0,6.0
+BRT,Papa Gueye Fall (Petersen),Golf Nord,500,8.0,6.0
+BRT,Papa Gueye Fall (Petersen),Dalal Jam,500,8.0,6.0
+BRT,Place de la Nation,Prefecture Guediawaye,500,8.0,6.0
+BRT,Place de la Nation,Golf Nord,500,8.0,6.0
+BRT,Place de la Nation,Dalal Jam,500,8.0,6.0
+BRT,Grand Dakar,Prefecture Guediawaye,500,8.0,6.0
+BRT,Grand Dakar,Golf Nord,500,8.0,6.0
+BRT,Grand Dakar,Dalal Jam,500,8.0,6.0
+BRT,Le Plateau,Prefecture Guediawaye,500,8.0,6.0
+BRT,Le Plateau,Golf Nord,500,8.0,6.0
+BRT,Le Plateau,Dalal Jam,500,8.0,6.0
+BRT,Papa Gueye Fall (Petersen),Grand Medine,500,8.0,6.0
+BRT,Papa Gueye Fall (Petersen),Croisement 22,500,8.0,6.0
+BRT,Papa Gueye Fall (Petersen),Parcelles Assainies,500,8.0,6.0
+BRT,Papa Gueye Fall (Petersen),Liberte 5,500,8.0,6.0
+BRT,Papa Gueye Fall (Petersen),Grande Mosquee,500,8.0,6.0
+BRT,Place de la Nation,Grand Medine,500,8.0,6.0
+BRT,Place de la Nation,Croisement 22,500,8.0,6.0
+BRT,Place de la Nation,Parcelles Assainies,500,8.0,6.0
+BRT,Place de la Nation,Liberte 5,500,8.0,6.0
+BRT,Place de la Nation,Grande Mosquee,500,8.0,6.0
+BRT,Grand Dakar,Grand Medine,500,8.0,6.0
+BRT,Grand Dakar,Croisement 22,500,8.0,6.0
+BRT,Grand Dakar,Parcelles Assainies,500,8.0,6.0
+BRT,Grand Dakar,Liberte 5,500,8.0,6.0
+BRT,Grand Dakar,Grande Mosquee,500,8.0,6.0
+BRT,Le Plateau,Grand Medine,500,8.0,6.0
+BRT,Le Plateau,Croisement 22,500,8.0,6.0
+BRT,Le Plateau,Parcelles Assainies,500,8.0,6.0
+BRT,Le Plateau,Liberte 5,500,8.0,6.0
+BRT,Le Plateau,Grande Mosquee,500,8.0,6.0
+BRT,Papa Gueye Fall (Petersen),Place de la Nation,400,8.0,6.0
+BRT,Papa Gueye Fall (Petersen),Grand Dakar,400,8.0,6.0
+BRT,Papa Gueye Fall (Petersen),Le Plateau,400,8.0,6.0
+BRT,Place de la Nation,Papa Gueye Fall (Petersen),400,8.0,6.0
+BRT,Place de la Nation,Grand Dakar,400,8.0,6.0
+BRT,Place de la Nation,Le Plateau,400,8.0,6.0
+BRT,Grand Dakar,Papa Gueye Fall (Petersen),400,8.0,6.0
+BRT,Grand Dakar,Place de la Nation,400,8.0,6.0
+BRT,Grand Dakar,Le Plateau,400,8.0,6.0
+BRT,Le Plateau,Papa Gueye Fall (Petersen),400,8.0,6.0
+BRT,Le Plateau,Place de la Nation,400,8.0,6.0
+BRT,Le Plateau,Grand Dakar,400,8.0,6.0
+DEM-DIKK - Ligne 1,Parcelles Assainies,Sapeur Pompiers,275,5.0,5.0
+DEM-DIKK - Ligne 1,Parcelles Assainies,Units 09 10 15,275,5.0,5.0
+DEM-DIKK - Ligne 1,Parcelles Assainies,Ecole Dior,275,5.0,5.0
+DEM-DIKK - Ligne 1,Parcelles Assainies,Terrain Acapes,275,5.0,5.0
+DEM-DIKK - Ligne 1,Parcelles Assainies,Units 22 24,275,5.0,5.0
+DEM-DIKK - Ligne 10,Terminus Libert 5,Cit Derkl,275,5.0,5.0
+DEM-DIKK - Ligne 10,Terminus Libert 5,Rond point Libert 6,275,5.0,5.0
+DEM-DIKK - Ligne 10,Terminus Libert 5,Khar Yalla,275,5.0,5.0
+DEM-DIKK - Ligne 10,Terminus Libert 5,Cit Marine,275,5.0,5.0
+DEM-DIKK - Ligne 10,Terminus Libert 5,CEM Ousmane Soc Diop,275,5.0,5.0
+DEM-DIKK - Ligne 11,Terminus Keur Massar,Station Keur Massar,275,5.0,5.0
+DEM-DIKK - Ligne 11,Terminus Keur Massar,Croissement Keur Massar,275,5.0,5.0
+DEM-DIKK - Ligne 11,Terminus Keur Massar,Fass Mbao,275,5.0,5.0
+DEM-DIKK - Ligne 11,Terminus Keur Massar,Diamagune,275,5.0,5.0
+DEM-DIKK - Ligne 11,Terminus Keur Massar,Poste Thiaroye,275,5.0,5.0
+DEM-DIKK - Ligne 121,SCAT URBAM,Leclerc,275,5.0,5.0
+DEM-DIKK - Ligne 121,Leclerc,SCAT URBAM,275,5.0,5.0
+DEM-DIKK - Ligne 18,Dieuppeul,Centre-Ville,275,,
+DEM-DIKK - Ligne 18,Dieuppeul,Dieuppeul (boucle),275,,
+DEM-DIKK - Ligne 18,Centre-Ville,Dieuppeul,275,,
+DEM-DIKK - Ligne 18,Centre-Ville,Dieuppeul (boucle),275,,
+DEM-DIKK - Ligne 18,Dieuppeul (boucle),Dieuppeul,275,,
+DEM-DIKK - Ligne 20,Dieuppeul,Centre-Ville,275,5.0,5.0
+DEM-DIKK - Ligne 20,Dieuppeul,Dieuppeul (boucle),275,5.0,5.0
+DEM-DIKK - Ligne 20,Centre-Ville,Dieuppeul,275,5.0,5.0
+DEM-DIKK - Ligne 20,Centre-Ville,Dieuppeul (boucle),275,5.0,5.0
+DEM-DIKK - Ligne 20,Dieuppeul (boucle),Dieuppeul,275,5.0,5.0
+DEM-DIKK - Ligne 23,Parcelles Assainies,March Grand Mdine,275,5.0,5.0
+DEM-DIKK - Ligne 23,Parcelles Assainies,Rond point 26,275,5.0,5.0
+DEM-DIKK - Ligne 23,Parcelles Assainies,VDN-Foire,275,5.0,5.0
+DEM-DIKK - Ligne 23,Parcelles Assainies,Cit Keur Gorgui,275,5.0,5.0
+DEM-DIKK - Ligne 23,Parcelles Assainies,Ecole Normale,275,5.0,5.0
+DEM-DIKK - Ligne 4,Terminus Libert 5,Cit Derkl,275,5.0,5.0
+DEM-DIKK - Ligne 4,Terminus Libert 5,Rond point Libert 6,275,5.0,5.0
+DEM-DIKK - Ligne 4,Terminus Libert 5,Khar Yalla,275,5.0,5.0
+DEM-DIKK - Ligne 4,Terminus Libert 5,Cit Marine,275,5.0,5.0
+DEM-DIKK - Ligne 4,Terminus Libert 5,CEM Dieuppeul 3,275,5.0,5.0
+DEM-DIKK - Ligne 5,Terminus Gudiawaye,Marche Jeudi,275,5.0,5.0
+DEM-DIKK - Ligne 5,Terminus Gudiawaye,Hpital Dalal Diam,275,5.0,5.0
+DEM-DIKK - Ligne 5,Terminus Gudiawaye,Case PA,275,5.0,5.0
+DEM-DIKK - Ligne 5,Terminus Gudiawaye,Police de Parcelles Assainies,275,5.0,5.0
+DEM-DIKK - Ligne 5,Terminus Gudiawaye,Pont du Stade Lopold Sdar Senghor,275,5.0,5.0
+DEM-DIKK - Ligne 6,Terminus Gudiawaye,Marche Jeudi,275,5.0,5.0
+DEM-DIKK - Ligne 6,Terminus Gudiawaye,Hpital Dalal Diam,275,5.0,5.0
+DEM-DIKK - Ligne 6,Terminus Gudiawaye,Camberene,275,5.0,5.0
+DEM-DIKK - Ligne 6,Terminus Gudiawaye,Case PA,275,5.0,5.0
+DEM-DIKK - Ligne 6,Terminus Gudiawaye,Police de Parcelles Assainies,275,5.0,5.0
+DEM-DIKK - Ligne 7,Terminus Ouakam,Cit Assemble,275,5.0,5.0
+DEM-DIKK - Ligne 7,Terminus Ouakam,Cit Comico,275,5.0,5.0
+DEM-DIKK - Ligne 7,Terminus Ouakam,Sortie Ouakam,275,5.0,5.0
+DEM-DIKK - Ligne 7,Terminus Ouakam,Hopital IHO,275,5.0,5.0
+DEM-DIKK - Ligne 7,Terminus Ouakam,Mermoz,275,5.0,5.0
+DEM-DIKK - Ligne 8,Terminus Aroport LSS,Cit Asecna,275,5.0,5.0
+DEM-DIKK - Ligne 8,Terminus Aroport LSS,Yoff Village,275,5.0,5.0
+DEM-DIKK - Ligne 8,Terminus Aroport LSS,Pond Foire,275,5.0,5.0
+DEM-DIKK - Ligne 8,Terminus Aroport LSS,Stade Lopold Sdar Senghor,275,5.0,5.0
+DEM-DIKK - Ligne 8,Terminus Aroport LSS,Patte dOie,275,5.0,5.0
+DEM-DIKK - Ligne 9,Terminus Libert 6,Rond Point JVC,275,5.0,5.0
+DEM-DIKK - Ligne 9,Terminus Libert 6,Sacr Cur,275,5.0,5.0
+DEM-DIKK - Ligne 9,Terminus Libert 6,IPG,275,5.0,5.0
+DEM-DIKK - Ligne 9,Terminus Libert 6,Terminus Dieuppeul,275,5.0,5.0
+DEM-DIKK - Ligne 9,Terminus Libert 6,Alles Ababacar Sy,275,5.0,5.0
+TAXI,Ngor,Guediawaye,3322,7.0,10.0
+TAXI,Colobane,Fann,4924,7.0,10.0
+TAXI,Ouakam,Sacre-Coeur,3540,7.0,10.0
+TAXI,Parcelles Assainies,Keur Massar,2706,7.0,10.0
+TAXI,Yoff,Keur Massar,4511,7.0,10.0
+TAXI,Medina,Parcelles Assainies,1182,7.0,10.0
+TAXI,Medina,Pikine,2354,7.0,10.0
+TAXI,Pikine,Plateau,4466,7.0,10.0
+TAXI,Ngor,HLM,3552,7.0,10.0
+TAXI,Colobane,Grand Yoff,2497,7.0,10.0
+TAXI,Sicap Baobab,Sacre-Coeur,1358,7.0,10.0
+TAXI,Sacre-Coeur,Fann,1521,7.0,10.0
+TAXI,Ngor,Yoff,4520,7.0,10.0
+TAXI,Sicap Baobab,Sacre-Coeur,2529,7.0,10.0
+TAXI,Liberte 6,Grand Yoff,1026,7.0,10.0
+TAXI,Grand Yoff,Ngor,4052,7.0,10.0
+TAXI,Plateau,Keur Massar,1313,7.0,10.0
+TAXI,Sicap Baobab,Parcelles Assainies,4907,7.0,10.0
+TAXI,Mermoz,Ouakam,3251,7.0,10.0
+TAXI,Sicap Baobab,Guediawaye,4164,7.0,10.0
+TAXI,Liberte 6,Point E,2950,7.0,10.0
+TAXI,Mermoz,Sacre-Coeur,1307,7.0,10.0
+TAXI,Ouakam,Medina,4055,7.0,10.0
+TAXI,Parcelles Assainies,Ouakam,4162,7.0,10.0
+TAXI,Medina,Mermoz,2466,7.0,10.0
+TAXI,Sicap Baobab,Keur Massar,2811,7.0,10.0
+TAXI,Keur Massar,Sicap Baobab,2649,7.0,10.0
+TAXI,Point E,Parcelles Assainies,2931,7.0,10.0
+TAXI,Point E,Parcelles Assainies,2771,7.0,10.0
+TAXI,Pikine,Guediawaye,1091,7.0,10.0
+TAXI,Pikine,Ngor,2099,7.0,10.0
+TAXI,Mermoz,Keur Massar,4210,7.0,10.0
+TAXI,Medina,Grand Yoff,3669,7.0,10.0
+TAXI,Mermoz,Medina,4524,7.0,10.0
+TAXI,Diamniadio,Parcelles Assainies,4950,7.0,10.0
+TAXI,Ouakam,Keur Massar,4966,7.0,10.0
+TAXI,Yoff,Fann,1684,7.0,10.0
+TAXI,Mermoz,Medina,4184,7.0,10.0
+TAXI,HLM,Point E,2517,7.0,10.0
+TAXI,Keur Massar,Point E,1754,7.0,10.0
+TAXI,Point E,Grand Yoff,2811,7.0,10.0
+TAXI,Plateau,Ngor,3302,7.0,10.0
+TAXI,Parcelles Assainies,Sicap Baobab,1734,7.0,10.0
+TAXI,Medina,Plateau,4216,7.0,10.0
+TAXI,Sacre-Coeur,Yoff,4186,7.0,10.0
+TAXI,HLM,Keur Massar,1483,7.0,10.0
+TAXI,Guediawaye,Ngor,2721,7.0,10.0
+TAXI,Yoff,Sicap Baobab,2277,7.0,10.0
+TAXI,Grand Yoff,Fann,3815,7.0,10.0
+TAXI,Mermoz,Yoff,4904,7.0,10.0
+TAXI,Medina,Yoff,4772,7.0,10.0
+TAXI,Pikine,Diamniadio,2496,7.0,10.0
+TAXI,Mermoz,Liberte 6,1353,7.0,10.0
+TAXI,Diamniadio,Malika,1430,7.0,10.0
+TAXI,Diamniadio,Malika,1510,7.0,10.0
+TAXI,Yoff,Malika,2319,7.0,10.0
+TAXI,Ngor,Sicap Baobab,3591,7.0,10.0
+TAXI,Liberte 6,Yoff,3000,7.0,10.0
+TAXI,Ouakam,Point E,4185,7.0,10.0
+TAXI,Plateau,Point E,1723,7.0,10.0
+TAXI,Liberte 6,Colobane,2990,7.0,10.0
+TAXI,Grand Yoff,Plateau,4098,7.0,10.0
+TAXI,Colobane,Mermoz,2999,7.0,10.0
+TAXI,Ouakam,Fann,3534,7.0,10.0
+TAXI,Fann,Grand Yoff,2145,7.0,10.0
+TAXI,Ngor,Medina,2444,7.0,10.0
+TAXI,Keur Massar,Sacre-Coeur,4777,7.0,10.0
+TAXI,Grand Yoff,Point E,4290,7.0,10.0
+TAXI,Parcelles Assainies,Medina,4894,7.0,10.0
+TAXI,Parcelles Assainies,Ouakam,1768,7.0,10.0
+TAXI,Parcelles Assainies,Sacre-Coeur,2987,7.0,10.0
+TAXI,Fann,Keur Massar,1822,7.0,10.0
+TAXI,Sacre-Coeur,Medina,1236,7.0,10.0
+TAXI,Keur Massar,Guediawaye,4817,7.0,10.0
+TAXI,Fann,Ngor,3856,7.0,10.0
+TAXI,Guediawaye,Pikine,1787,7.0,10.0
+TAXI,Colobane,Keur Massar,2287,7.0,10.0
+TAXI,Ouakam,Keur Massar,3816,7.0,10.0
+TAXI,Mermoz,Diamniadio,2312,7.0,10.0
+TAXI,Ngor,Guediawaye,2995,7.0,10.0
+TAXI,AIBD,Centre-ville Dakar,25000,7.0,10.0
+TAXI,AIBD,Saly,20000,7.0,10.0
+TAXI,AIBD,Thies,13000,7.0,10.0
+TAXI,Dakar Plateau,AIBD,25000,7.0,10.0
+TAXI,Pikine,AIBD,18000,7.0,10.0
+TER,Dakar,Hann,500,10.0,8.0
+TER,Dakar,Colobane,500,10.0,8.0
+TER,Dakar,Hann Maristes,1000,10.0,8.0
+TER,Dakar,Bountou Pikine,1000,10.0,8.0
+TER,Dakar,Thiaroye,1000,10.0,8.0
+TER,Dakar,Yeumbeul,1500,10.0,8.0
+TER,Dakar,Rufisque,1500,10.0,8.0
+TER,Dakar,Bargny,1500,10.0,8.0
+TER,Dakar,Diamniadio,1500,10.0,8.0
+TER,Hann,Dakar,500,10.0,8.0
+TER,Hann,Colobane,500,10.0,8.0
+TER,Hann,Hann Maristes,500,10.0,8.0
+TER,Hann,Bountou Pikine,1000,10.0,8.0
+TER,Hann,Thiaroye,1000,10.0,8.0
+TER,Hann,Yeumbeul,1000,10.0,8.0
+TER,Hann,Rufisque,1500,10.0,8.0
+TER,Hann,Bargny,1500,10.0,8.0
+TER,Hann,Diamniadio,1500,10.0,8.0
+TER,Colobane,Dakar,500,10.0,8.0
+TER,Colobane,Hann,500,10.0,8.0
+TER,Colobane,Hann Maristes,500,10.0,8.0
+TER,Colobane,Bountou Pikine,500,10.0,8.0
+TER,Colobane,Thiaroye,1000,10.0,8.0
+TER,Colobane,Yeumbeul,1000,10.0,8.0
+TER,Colobane,Rufisque,1000,10.0,8.0
+TER,Colobane,Bargny,1500,10.0,8.0
+TER,Colobane,Diamniadio,1500,10.0,8.0
+TER,Hann Maristes,Dakar,1000,10.0,8.0
+TER,Hann Maristes,Hann,500,10.0,8.0
+TER,Hann Maristes,Colobane,500,10.0,8.0
+TER,Hann Maristes,Bountou Pikine,500,10.0,8.0
+TER,Hann Maristes,Thiaroye,500,10.0,8.0
+TER,Hann Maristes,Yeumbeul,1000,10.0,8.0
+TER,Hann Maristes,Rufisque,1000,10.0,8.0
+TER,Hann Maristes,Bargny,1000,10.0,8.0
+TER,Hann Maristes,Diamniadio,1500,10.0,8.0
+TER,Bountou Pikine,Dakar,1000,10.0,8.0
+TER,Bountou Pikine,Hann,1000,10.0,8.0
+TER,Bountou Pikine,Colobane,500,10.0,8.0
+TER,Bountou Pikine,Hann Maristes,500,10.0,8.0
+TER,Bountou Pikine,Thiaroye,500,10.0,8.0
+TER,Bountou Pikine,Yeumbeul,500,10.0,8.0
+TER,Bountou Pikine,Rufisque,1000,10.0,8.0
+TER,Bountou Pikine,Bargny,1000,10.0,8.0
+TER,Bountou Pikine,Diamniadio,1000,10.0,8.0
+TER,Thiaroye,Dakar,1000,10.0,8.0
+TER,Thiaroye,Hann,1000,10.0,8.0
+TER,Thiaroye,Colobane,1000,10.0,8.0
+TER,Thiaroye,Hann Maristes,500,10.0,8.0
+TER,Thiaroye,Bountou Pikine,500,10.0,8.0
+TER,Thiaroye,Yeumbeul,500,10.0,8.0
+TER,Thiaroye,Rufisque,500,10.0,8.0
+TER,Thiaroye,Bargny,1000,10.0,8.0
+TER,Thiaroye,Diamniadio,1000,10.0,8.0
+TER,Yeumbeul,Dakar,1500,10.0,8.0
+TER,Yeumbeul,Hann,1000,10.0,8.0
+TER,Yeumbeul,Colobane,1000,10.0,8.0
+TER,Yeumbeul,Hann Maristes,1000,10.0,8.0
+TER,Yeumbeul,Bountou Pikine,500,10.0,8.0
+TER,Yeumbeul,Thiaroye,500,10.0,8.0
+TER,Yeumbeul,Rufisque,500,10.0,8.0
+TER,Yeumbeul,Bargny,500,10.0,8.0
+TER,Yeumbeul,Diamniadio,1000,10.0,8.0
+TER,Rufisque,Dakar,1500,10.0,8.0
+TER,Rufisque,Hann,1500,10.0,8.0
+TER,Rufisque,Colobane,1000,10.0,8.0
+TER,Rufisque,Hann Maristes,1000,10.0,8.0
+TER,Rufisque,Bountou Pikine,1000,10.0,8.0
+TER,Rufisque,Thiaroye,500,10.0,8.0
+TER,Rufisque,Yeumbeul,500,10.0,8.0
+TER,Rufisque,Bargny,500,10.0,8.0
+TER,Rufisque,Diamniadio,500,10.0,8.0
+TER,Bargny,Dakar,1500,10.0,8.0
+TER,Bargny,Hann,1500,10.0,8.0
+TER,Bargny,Colobane,1500,10.0,8.0
+TER,Bargny,Hann Maristes,1000,10.0,8.0
+TER,Bargny,Bountou Pikine,1000,10.0,8.0
+TER,Bargny,Thiaroye,1000,10.0,8.0
+TER,Bargny,Yeumbeul,500,10.0,8.0
+TER,Bargny,Rufisque,500,10.0,8.0
+TER,Bargny,Diamniadio,500,10.0,8.0
+TER,Diamniadio,Dakar,1500,10.0,8.0
+TER,Diamniadio,Hann,1500,10.0,8.0
+TER,Diamniadio,Colobane,1500,10.0,8.0
+TER,Diamniadio,Hann Maristes,1500,10.0,8.0
+TER,Diamniadio,Bountou Pikine,1000,10.0,8.0
+TER,Diamniadio,Thiaroye,1000,10.0,8.0
+TER,Diamniadio,Yeumbeul,1000,10.0,8.0
+TER,Diamniadio,Rufisque,500,10.0,8.0
+TER,Diamniadio,Bargny,500,10.0,8.0
